@@ -1,0 +1,30 @@
+.nav_div {
+    position: relative;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.nav {
+    list-style: none;
+    font-size: 5vw;
+}
+
+.li {
+    margin-bottom: 8px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.director {
+    text-align: center;
+}
